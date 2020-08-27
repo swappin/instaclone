@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896517321185",
+    "firebase_url": "https://repositiv-da78c.firebaseio.com",
+    "project_id": "repositiv-da78c",
+    "storage_bucket": "repositiv-da78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896517321185:android:d67ef2120ef9902d23e2a0",
+        "android_client_info": {
+          "package_name": "com.repositiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896517321185-l53q5shpn66gui1b7ig57hjnr3fsjmvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8H-4-mK300GeHu8Ujetv3RJZ9Ndue_Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896517321185-l53q5shpn66gui1b7ig57hjnr3fsjmvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896517321185-1ebqqkpfk7b9e2drj4d3kbeg3qdlns5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repositiv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
